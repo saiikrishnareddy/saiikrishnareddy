@@ -40,6 +40,8 @@
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-008C8C?style=flat-square&logo=metasploit&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00B4D8?style=flat-square&logo=tenable&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=flat-square&logo=shodan&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square&logo=owasp&logoColor=white)
 
 ### Mobile Security
@@ -57,8 +59,35 @@
 
 ### OS Environment
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-2E8B57?style=flat-square&logo=parrot-security&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+---
+
+## 🔴 Offensive Security & Penetration Testing (Red Team)
+
+> Offensive tools are used to simulate real-world attacks, identify vulnerabilities before malicious actors do, and test the resilience of your security controls.
+
+### Reconnaissance & Scanning
+
+| Tool | Purpose |
+|------|---------|
+| **Nmap** | Industry-standard network mapper for discovering hosts and open ports |
+| **Shodan** | Search engine for internet-connected devices, widely used for finding exposed assets and attack surfaces |
+
+### Exploitation Frameworks
+
+| Tool | Purpose |
+|------|---------|
+| **Metasploit** | Full-scale framework used to develop, test, and execute exploit code against target systems |
+| **Burp Suite** | Essential for web application vulnerability testing, featuring interception, scanning, and intruder capabilities |
+
+### Vulnerability Scanners
+
+| Tool | Purpose |
+|------|---------|
+| **Nessus** | Broadly used remote security scanning tool that quickly evaluates systems for vulnerabilities |
 
 ---
 
@@ -99,7 +128,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:saiikrishnareddyy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-saiikrishnareddyy%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
