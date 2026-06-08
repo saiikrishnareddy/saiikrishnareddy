@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=1000&lines=Cybersecurity+Analyst;SOC+Analyst;Bug+Bounty+Hunter;Mobile+Application+Pentester;Threat+Hunter;SIEM+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=1000&lines=Cybersecurity+Analyst;SOC+Analyst;Penetration+Testing;Bug+Bounty+Hunter;Mobile+Application+Pentester;Threat+Hunter;SIEM+Engineer" />
 
 <h1 align="center">Hi 👋, I'm Sai Krishna Reddy</h1>
 
@@ -67,27 +67,16 @@
 
 ## 🔴 Offensive Security & Penetration Testing (Red Team)
 
-> Offensive tools are used to simulate real-world attacks, identify vulnerabilities before malicious actors do, and test the resilience of your security controls.
-
 ### Reconnaissance & Scanning
-
-| Tool | Purpose |
-|------|---------|
-| **Nmap** | Industry-standard network mapper for discovering hosts and open ports |
-| **Shodan** | Search engine for internet-connected devices, widely used for finding exposed assets and attack surfaces |
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=flat-square&logo=shodan&logoColor=white)
 
 ### Exploitation Frameworks
-
-| Tool | Purpose |
-|------|---------|
-| **Metasploit** | Full-scale framework used to develop, test, and execute exploit code against target systems |
-| **Burp Suite** | Essential for web application vulnerability testing, featuring interception, scanning, and intruder capabilities |
+![Metasploit](https://img.shields.io/badge/Metasploit-008C8C?style=flat-square&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 
 ### Vulnerability Scanners
-
-| Tool | Purpose |
-|------|---------|
-| **Nessus** | Broadly used remote security scanning tool that quickly evaluates systems for vulnerabilities |
+![Nessus](https://img.shields.io/badge/Nessus-00B4D8?style=flat-square&logo=tenable&logoColor=white)
 
 ---
 
@@ -97,19 +86,6 @@
 ✅ **Microsoft Cybersecurity Analyst**  
 ✅ **Fortinet Certified Associate**  
 ✅ **Google Cybersecurity Professional Certificate**  
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saiikrishnareddy&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiikrishnareddy&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiikrishnareddy&layout=compact&theme=radical" width="45%" />
-</p>
 
 ---
 
@@ -128,7 +104,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:saiikrishnareddyy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-saiikrishnareddyy%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/📧-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -138,6 +114,3 @@
   <img src="https://komarev.com/ghpvc/?username=saiikrishnareddy&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="center">
-  ⚡ *"Never give up. Never back down."*
-</p>
